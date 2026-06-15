@@ -22,7 +22,6 @@ A simple Java BDD automation framework using Playwright and Cucumber to validate
 
 ## Notes
 - The framework launches the browser in visible mode (non-headless).
-- Allure reporting has been removed from this project.
 
 ## Project Structure
 - `src/test/java` — step definitions, hooks, page objects, and runner
